@@ -7,4 +7,11 @@
   <groupId>clinic.programmming</groupId>
   <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
-</project>
+  
+  <properties>
+	<maven.compiler.source>15</maven.compiler.source>
+    <maven.compiler.target>15</maven.compiler.target>
+    </properties>
+	
+  </project>
+  
